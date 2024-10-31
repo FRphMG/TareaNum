@@ -1,3 +1,6 @@
+# Yldefonso Hérnandez Danna Paola
+# Guzmán Martínez Frida Paola
+
 # Importa la biblioteca NumPy, que es fundamental para la computación científica en Python
 import numpy as np
 
