@@ -1,4 +1,4 @@
-# 
+# Yldefonso Hérnandez Danna Paola
 # Guzmán Martínez Frida Paola
 
 # Importar la biblioteca NumPy y asignarle el alias 'np'
